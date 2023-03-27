@@ -4,8 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=klaudiusz-code&label=Profile%20views&color=0e75b6&style=flat" alt="klaudiusz-code" /> </p>
-
 - 🔭 I’m currently working on [PhotoWeb](https://p-web.herokuapp.com)
 
 - 🌱 I’m currently learning **React**
