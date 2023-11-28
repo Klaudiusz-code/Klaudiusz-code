@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **klaudiusz.adamaszek@onet.pl**
+- 📫 How to reach me **adamaszek404@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
