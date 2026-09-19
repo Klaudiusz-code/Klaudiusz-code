@@ -4,11 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 
-- 🔭 I’m currently working on [Enigma403](https://github.com/Enigma403/enigma-dashboard)
 
-- 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **adamaszek404@gmail.com**
+- 📫 How to reach me **klaudiusz.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
